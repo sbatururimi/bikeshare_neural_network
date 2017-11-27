@@ -26,3 +26,6 @@ jupyter notebook bikesharing-neural-network.ipynb
 ```
 ### Take a look
 You can open the jupyter notebook directly in github [bikesharing-neural-network.ipynb](https://github.com/sbatururimi/bikeshare_neural_network/blob/master/bikesharing-neural-network.ipynb)
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
